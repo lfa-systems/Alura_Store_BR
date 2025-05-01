@@ -18,7 +18,7 @@ O desafio proporcionou novos aprendizado como:
 
 A Loja 1 apresentou o maior faturamento total, demonstrando sua forte posição no mercado. Em contrapartida, a Loja 4 registrou o menor faturamento, indicando um desempenho financeiro não muito favorável para os negócios da organização. As Lojas 2 e 3 apresentaram faturamentos intermediários.
 
-![][image1]  
+![Imagem: Faturamento Total](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/faturamento.png "Faturamento Total")  
 Fonte: [https://github.com/lfa-systems/Alura\_Store\_BR/blob/main/AluraStoreBr.ipynb](https://github.com/lfa-systems/Alura_Store_BR/blob/main/AluraStoreBr.ipynb)
 
 **Categorias de Produtos**
@@ -30,7 +30,7 @@ A análise das categorias de produtos revelou diferentes padrões de desempenho 
 * **Loja 3:** As categorias Móveis que vende mais entre as lojas e Eletrônicos apresentaram maior faturamento que a que a Loja 1 e Loja 2, As mesmas categorias menos vendidas são maiores que a Loja 1 e Menores que Loja 2\.  
 * **Loja 4:** As categorias dessa loja tem o menor desempenho entre as lojas, exceto na categoria intermediária de brinquedos. Sobre as categorias menos vendida a de  utilidades domésticas se destaca com a mais vendidas já a categoria livros ultrapassa um pouco a Loja 3, ficando abaixo apenas da Loja 2\.
 
-![][image2]
+![Imagem: Categorias de Produtos](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/vendas_categorias.png "Categorias de Produtos")
 
 Fonte: [https://github.com/lfa-systems/Alura\_Store\_BR/blob/main/AluraStoreBr.ipynb](https://github.com/lfa-systems/Alura_Store_BR/blob/main/AluraStoreBr.ipynb)
 
@@ -38,7 +38,7 @@ Fonte: [https://github.com/lfa-systems/Alura\_Store\_BR/blob/main/AluraStoreBr.i
 
 A Loja 3 obteve a melhor média de avaliações dos clientes, demonstrando um alto nível de satisfação. As Lojas 2 e 4 apresentaram avaliações ligeiramente inferiores, mas ainda positivas. A Loja 1, por outro lado, recebeu as avaliações mais baixas, indicando áreas que necessitam de melhorias na experiência do cliente.
 
-![Avaliação dos Clientes](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/avaliacao.png "Avaliação dos Clientes")
+![Imagem: Avaliação dos Clientes](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/avaliacao.png "Avaliação dos Clientes")
 
 Fonte: [https://github.com/lfa-systems/Alura\_Store\_BR/blob/main/AluraStoreBr.ipynb](https://github.com/lfa-systems/Alura_Store_BR/blob/main/AluraStoreBr.ipynb)
 
@@ -51,7 +51,7 @@ A análise dos cinco (5) produtos mais e menos vendidos revelou insights valioso
 * **Loja 3:** Os 3 produtos mais vendidos foram Kit banquetas, Mesa de jantar e Cama king, enquanto os menos vendidos foram Mochila, Micro-ondas e Blocos de montar.  
 * **Loja 4:** Os 3 produtos mais vendidos foram Cama box, Faqueiro e Dashboards com Power BI, enquanto os menos vendidos foram Violão, Guarda roupas e Guitarra.
 
-**![][image4]**
+![Imagem: Produtos Mais e Menos Vendidos](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/produtos_mais_menos_vendidos.png "Produtos Mais e Menos Vendidos")
 
 Fonte: [https://github.com/lfa-systems/Alura\_Store\_BR/blob/main/AluraStoreBr.ipynb](https://github.com/lfa-systems/Alura_Store_BR/blob/main/AluraStoreBr.ipynb)
 
@@ -59,9 +59,10 @@ Fonte: [https://github.com/lfa-systems/Alura\_Store\_BR/blob/main/AluraStoreBr.i
 
 A Loja 4 apresentou o menor custo médio de frete, oferecendo uma vantagem competitiva em relação às demais. As Lojas 2 e 3 apresentaram custos de frete médios, enquanto a Loja 1 teve o maior custo de frete, o que pode impactar sua competitividade.
 
-![][image5]
+![Imagem: Custos de Frete](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/frete_medio.png "Custos de Frete")
 
 Fonte: [https://github.com/lfa-systems/Alura\_Store\_BR/blob/main/AluraStoreBr.ipynb](https://github.com/lfa-systems/Alura_Store_BR/blob/main/AluraStoreBr.ipynb)
+
 
 **Conclusão e Recomendação**
 
