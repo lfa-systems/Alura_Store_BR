@@ -5,9 +5,9 @@ O desafio Allure Store é analisar as vendas e desempenhos de lojas do Senhor Jo
 
 **Estrutura do projeto e organização dos arquivos.**
 
-**Pasta imagens:** Contém imagens geradas a partir da execução completa do projeto no Colaboratory [COLAB][https://colab.google/]
+**Pasta imagens:** Contém imagens geradas a partir da execução completa do projeto no Colaboratory [https://colab.google/]
 
-**Arquivo AluraStoreBr.ipynb:** Denominado de notebook para o COLAB, é o projeto que contém os código em na linguagem de programação PYTHON.
+**Arquivo AluraStoreBr.ipynb:** Denominado de notebook para o COLAB, é o projeto que contém os código em na linguagem de programação PYTHON para leitura dos dados com a biblioteca PANDA e a geração dos gráficos com a biblioteca matplotlib para análise.
 
 
 **Exemplos de gráficos e insights obtidos.**
@@ -42,6 +42,7 @@ Gráfico obtido na análise do custo médio do frete por loja.
 
 Para abrir o projeto AluraStoreBr.ipynb em seu ambiente COLAB faça upload do arquivo no menu Arquivo → Fazer Upload de Notebook em seguida  no menu Ambiente de Execução → Executar tudo.
 
+![Imagem: Upload do Notebook](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/Upload_arquivo_colab.png "Fazer Upload do Notebook")
 
 
-
+![Imagem: Executar Projeto](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/executar_projeto_colab.png "Executar Projeto")
