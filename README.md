@@ -42,7 +42,12 @@ Gráfico obtido na análise do custo médio do frete por loja.
 
 Para abrir o projeto AluraStoreBr.ipynb em seu ambiente COLAB faça upload do arquivo no menu Arquivo → Fazer Upload de Notebook em seguida  no menu Ambiente de Execução → Executar tudo.
 
+
+**Faze Upload Notebook**
+
 ![Imagem: Upload do Notebook](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/Upload_arquivo_colab.png "Fazer Upload do Notebook")
 
+
+**Executar Projeto**
 
 ![Imagem: Executar Projeto](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/executar_projeto_colab.png "Executar Projeto")
