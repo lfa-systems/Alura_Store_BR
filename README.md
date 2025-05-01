@@ -13,28 +13,23 @@ O desafio Allure Store é analisar as vendas e desempenhos de lojas do Senhor Jo
 **Exemplos de gráficos e insights obtidos.**
 
 ![Imagem: Faturamento Total](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/faturamento.png "Faturamento Total")
-
 Gráfico obtido na análise do faturamento por loja.
 
 
 
 ![Imagem: Categorias de Produtos](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/vendas_categorias.png "Categorias de Produtos")
-
 Gráfico obtido na análise do agrupamento das categorias por loja.
 
 
 ![Imagem: Avaliação dos Clientes](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/avaliacao.png "Avaliação dos Clientes")
-
 Gráfico obtido na análise da avaliação dos clientes por loja.
 
 
 ![Imagem: Produtos Mais e Menos Vendidos](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/produtos_mais_menos_vendidos.png "Produtos Mais e Menos Vendidos")
-
 Gráfico obtido na análise dos produtos mais e menos vendidos por loja.
 
 
 ![Imagem: Custos de Frete](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/frete_medio.png "Custos de Frete")
-
 Gráfico obtido na análise do custo médio do frete por loja.
 
 
