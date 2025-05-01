@@ -38,7 +38,7 @@ Fonte: [https://github.com/lfa-systems/Alura\_Store\_BR/blob/main/AluraStoreBr.i
 
 A Loja 3 obteve a melhor média de avaliações dos clientes, demonstrando um alto nível de satisfação. As Lojas 2 e 4 apresentaram avaliações ligeiramente inferiores, mas ainda positivas. A Loja 1, por outro lado, recebeu as avaliações mais baixas, indicando áreas que necessitam de melhorias na experiência do cliente.
 
-![Avaliação dos Clientes](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/avaliacao.png)
+![Avaliação dos Clientes](https://github.com/lfa-systems/Alura_Store_BR/blob/main/imagens/avaliacao.png "Avaliação dos Clientes")
 
 Fonte: [https://github.com/lfa-systems/Alura\_Store\_BR/blob/main/AluraStoreBr.ipynb](https://github.com/lfa-systems/Alura_Store_BR/blob/main/AluraStoreBr.ipynb)
 
