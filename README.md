@@ -1,6 +1,6 @@
 **O propósito da análise realizada.**
 
-O desafio Allure Store é analisar as vendas e desempenhos de lojas, tem como objetivo ajudar o Senhor João a decidir qual loja vender para investir em um novo negócio. Sabemos que grandes empresas, e-commerces e até mesmo você, mesmo sem perceber, tomam decisões baseadas em dados. E é aí que vem o nosso objetivo. Isso irá ajudar o Sr. João decide qual loja ele deve vender.
+O desafio Allure Store é analisar as vendas e desempenhos de lojas do Senhor João e ajudá-lo a decidir qual loja vender para investir em um novo negócio. Sabemos que grandes empresas, e-commerces e até mesmo você, mesmo sem perceber, tomam decisões baseadas em dados. E é aí que entra o trabalho do Especialista em Data Science. Ajudar o Sr. João decide qual loja ele deve vender.
 
 
 **Estrutura do projeto e organização dos arquivos.**
